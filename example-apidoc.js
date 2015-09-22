@@ -14,7 +14,7 @@
  * @apiParam {String} form Case Report Form Version OID. Use '*' for all.
  *
  * @apiExample Example usage - gets all forms in a study:
- * curl -i demo2.eclinicalhosting.com/OpenClinica9/rest/metadata/html/print/S_NCT02438/*/*
+ * curl -i demo2.eclinicalhosting.com/OpenClinica9/rest/metadata/html/print/S_NCT02438/SE_ABC/F_123
  *
  * @apiSuccess {String}   id            The Users-ID.
  * @apiSuccess {Date}     registered    Registration Date.

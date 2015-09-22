@@ -1,6 +1,6 @@
 /**
  * @api {get} /rest/metadata/:format/:mode/:study/:event/:form Returns empty printable case report forms
- * @apiVersion 3.7
+ * @apiVersion 3.7.0
  * @apiName GetCRF
  * @apiGroup Form
  * @apiPermission user
